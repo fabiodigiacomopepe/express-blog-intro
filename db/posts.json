@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Primo Post",
+        "content": "Contenuto del primo post.",
+        "image": "post1.png",
+        "tags": [
+            "JavaScript",
+            "Node.js",
+            "Express"
+        ]
+    },
+    {
+        "title": "Secondo Post",
+        "content": "Contenuto del secondo post.",
+        "image": "post2.png",
+        "tags": [
+            "Web Development",
+            "Coding",
+            "Programming"
+        ]
+    },
+    {
+        "title": "Terzo Post",
+        "content": "Contenuto del terzo post.",
+        "image": "post3.png",
+        "tags": [
+            "Blogging",
+            "Content Creation",
+            "Writing"
+        ]
+    },
+    {
+        "title": "Quarto Post",
+        "content": "Contenuto del quarto post.",
+        "image": "post4.png",
+        "tags": [
+            "Success",
+            "Motivation",
+            "Goals"
+        ]
+    },
+    {
+        "title": "Quinto Post",
+        "content": "Contenuto del quinto post.",
+        "image": "post5.png",
+        "tags": [
+            "Learning",
+            "Growth",
+            "Development"
+        ]
+    }
+]
